@@ -26,17 +26,20 @@ The aim is to provide actionable insights to improve profitability and sales str
 ---
 
 ### 1️⃣ Sales Trends Over Time
-<img width="1000" alt="Sales Trends" src="https://github.com/user-attachments/assets/YOUR_SALES_TRENDS_IMAGE_LINK" />
+<img width="1374" height="588" alt="image" src="https://github.com/user-attachments/assets/49a7ab45-bcd0-4392-a5bd-5a61a7e56ac4" />
+
 
 ---
 
 ### 2️⃣ Profit by Region
-<img width="1000" alt="Profit by Region" src="https://github.com/user-attachments/assets/YOUR_PROFIT_BY_REGION_IMAGE_LINK" />
+<img width="1044" height="616" alt="image" src="https://github.com/user-attachments/assets/6dfd84ce-d62a-454c-b9f6-4011afb85bc4" />
+
 
 ---
 
 ### 3️⃣ Category-Wise Performance
-<img width="1000" alt="Category Performance" src="https://github.com/user-attachments/assets/YOUR_CATEGORY_PERFORMANCE_IMAGE_LINK" />
+<img width="1365" height="665" alt="image" src="https://github.com/user-attachments/assets/3a56f463-4c22-4f2d-b465-32648360d2fd" />
+
 
 ---
 
