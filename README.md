@@ -23,7 +23,6 @@ The aim is to provide actionable insights to improve profitability and sales str
 
 ## 📸 Visuals & Analysis Highlights
 
----
 
 ### 1️⃣ Sales Trends Over Time
 <img width="1374" height="588" alt="image" src="https://github.com/user-attachments/assets/49a7ab45-bcd0-4392-a5bd-5a61a7e56ac4" />
