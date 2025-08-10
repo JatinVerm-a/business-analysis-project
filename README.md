@@ -36,7 +36,7 @@ The aim is to provide actionable insights to improve profitability and sales str
 
 ![Sales Trends](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/sales_trends.png?raw=true)
 ![Profit by Region](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/profit_region.png?raw=true)
-![Category Performance](<img width="1382" height="666" alt="image" src="https://github.com/user-attachments/assets/be20e423-ff4d-42af-b06d-a5e5efa329b7" />
+![Category Performance](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19d6d71f-8ad0-4db1-8f4c-47d1357c6bd0" />
 )
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b14ab865-5e65-4a27-bad8-5f2c2b967e86" />
