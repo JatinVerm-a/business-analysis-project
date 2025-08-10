@@ -39,7 +39,8 @@ The aim is to provide actionable insights to improve profitability and sales str
 ![Category Performance](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19d6d71f-8ad0-4db1-8f4c-47d1357c6bd0" />
 )
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b14ab865-5e65-4a27-bad8-5f2c2b967e86" />
+<img width="1372" height="667" alt="image" src="https://github.com/user-attachments/assets/864c0575-f654-4878-9206-dba611dcf3fd" />
+
 
 
 ---
