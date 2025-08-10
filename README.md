@@ -34,13 +34,13 @@ The goal of this analysis is to:
 > Replace the image links below with your actual screenshots.
 
 ### 1️⃣ Sales Trends Over Time  
-![Sales Trends](images/sales_trends.png)
+![Sales Trends](<img width="1375" height="591" alt="image" src="https://github.com/user-attachments/assets/10c0c98c-9d57-404a-9b04-359d1d950ac8" />)
 
 ### 2️⃣ Profit by Region  
-![Profit by Region](images/profit_by_region.png)
+![Profit by Region](<img width="996" height="606" alt="image" src="https://github.com/user-attachments/assets/acec0c64-1f84-4d90-9b89-6e4721e2659b" />)
 
 ### 3️⃣ Category-Wise Performance  
-![Category Performance](images/category_performance.png)
+![Category Performance](<img width="1387" height="668" alt="image" src="https://github.com/user-attachments/assets/a10f0c77-b6ea-4b59-b923-5222c7d3b595" />)
 
 ---
 
