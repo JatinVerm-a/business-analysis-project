@@ -21,27 +21,33 @@ The aim is to provide actionable insights to improve profitability and sales str
 
 ---
 
-## 📸 Visuals & Analysis Highlights  
-
-### 1️⃣ Sales Trends Over Time
-<img width="1382" height="584" alt="image" src="https://github.com/user-attachments/assets/2be17764-2e3d-46d2-ae9f-e9560f71121b" />
-
-
-### 2️⃣ Profit by Region
-<img width="1002" height="609" alt="image" src="https://github.com/user-attachments/assets/f2043645-ff01-45fd-b98d-3a369062f06b" />
-
-
-### 3️⃣ Category-Wise Performance
-<img width="1372" height="667" alt="image" src="https://github.com/user-attachments/assets/864c0575-f654-4878-9206-dba611dcf3fd" />
+## 📸 Visuals & Analysis Highlights
 
 ---
 
-## 📝 Key Insights & Findings
-- **Technology** category generated the **highest profit margin**.
-- **Office Supplies** had high sales but **low profitability**.
-- The **Central region** showed the lowest profit despite decent sales volume.
-- Seasonal peaks occurred **in November & December**, likely due to holiday sales.
-- Discounts beyond **20%** led to significant profit decline.
+### 1️⃣ Sales Trends Over Time
+<img width="1000" alt="Sales Trends" src="https://github.com/user-attachments/assets/YOUR_SALES_TRENDS_IMAGE_LINK" />
+
+---
+
+### 2️⃣ Profit by Region
+<img width="1000" alt="Profit by Region" src="https://github.com/user-attachments/assets/YOUR_PROFIT_BY_REGION_IMAGE_LINK" />
+
+---
+
+### 3️⃣ Category-Wise Performance
+<img width="1000" alt="Category Performance" src="https://github.com/user-attachments/assets/YOUR_CATEGORY_PERFORMANCE_IMAGE_LINK" />
+
+---
+
+## 📊 Key Insights & Findings
+
+- **Technology** category generated the **highest profit margin**.  
+- **Office Supplies** had high sales but **low profitability**.  
+- The **Central** region showed the lowest profit despite decent sales volume.  
+- Seasonal peaks occurred in **November & December**, likely due to holiday sales.  
+- Discounts beyond **20%** led to significant profit decline.  
+
 
 ---
 
