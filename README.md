@@ -25,23 +25,15 @@ The aim is to provide actionable insights to improve profitability and sales str
 > Replace the image links below with your actual screenshots.
 
 ### 1️⃣ Sales Trends Over Time
-![Sales Trends](https://github.com/user-attachments/assets/10c0c98c-9d57-404a-9b04-359d1950ac8)
+<img width="1382" height="584" alt="image" src="https://github.com/user-attachments/assets/2be17764-2e3d-46d2-ae9f-e9560f71121b" />
+
 
 ### 2️⃣ Profit by Region
-![Profit by Region](https://github.com/user-attachments/assets/acec0c64-1f84-4490-9b89-6e4721e2659b)
+<img width="1002" height="609" alt="image" src="https://github.com/user-attachments/assets/f2043645-ff01-45fd-b98d-3a369062f06b" />
+
 
 ### 3️⃣ Category-Wise Performance
-![Category Performance](https://github.com/user-attachments/assets/a10f0c77-b6ea-4b59-b023-5222c7d3b595)
-
-
-![Sales Trends](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/sales_trends.png?raw=true)
-![Profit by Region](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/profit_region.png?raw=true)
-![Category Performance](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19d6d71f-8ad0-4db1-8f4c-47d1357c6bd0" />
-)
-
 <img width="1372" height="667" alt="image" src="https://github.com/user-attachments/assets/864c0575-f654-4878-9206-dba611dcf3fd" />
-
-
 
 ---
 
