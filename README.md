@@ -33,6 +33,11 @@ The aim is to provide actionable insights to improve profitability and sales str
 ### 3️⃣ Category-Wise Performance
 ![Category Performance](https://github.com/user-attachments/assets/a10f0c77-b6ea-4b59-b023-5222c7d3b595)
 
+
+![Sales Trends](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/sales_trends.png?raw=true)
+![Profit by Region](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/profit_region.png?raw=true)
+![Category Performance](https://github.com/JatinVerm-a/business-analysis-project/blob/main/images/category_performance.png?raw=true)
+
 ---
 
 ## 📝 Key Insights & Findings
